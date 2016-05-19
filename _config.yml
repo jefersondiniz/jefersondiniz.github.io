@@ -1,0 +1,43 @@
+# Site settings
+description: Jeferson Diniz - Desenvolvedor Front End - Belo Horizonte - MG
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Jeferson Diniz
+user_description: Front End Developer
+user_title: Front End Developer
+email: dinizfront@gmail.com
+twitter_username: dinizfront
+github_username: jefersondiniz
+linkedin_username: jeferson-diniz-3b3339bb
+#gplus_username:  lorem_ipsum
+disqus_username: lorem_ipsum
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Series
+    url: /series
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
