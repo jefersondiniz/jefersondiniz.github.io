@@ -1,5 +1,5 @@
 # Site settings
-description: Jeferson Diniz - Desenvolvedor Front End - Belo Horizonte - MG
+description: Jeferson Diniz - Desenvolvedor Front End
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -12,7 +12,7 @@ twitter_username: dinizfront
 github_username: jefersondiniz
 linkedin_username: jeferson-diniz-3b3339bb
 #gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+disqus_username: jeferson_diniz
 
 # Build settings
 markdown: kramdown
@@ -36,7 +36,7 @@ links:
     url: /series
   - title: Tags
     url: /tags
-  - title: About Me
+  - title: Sobre mim
     url: /about
 
 # exclude my node related stuff
