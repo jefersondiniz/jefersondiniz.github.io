@@ -13,7 +13,7 @@ twitter_text:
 <p>Esses são os principais comandos do NPM, com eles você pode gerênciar toda parte de packages do seu projeto.</p>
 <ul>
 	<p><strong>npm install nome_do_módulo </strong>- Instala um módulo no projeto.</p>
-	<p><strong>npm install nome_do_módulo –save</strong> - Instala o módulo e adiciona-o na lista de dependências do package.json do projeto.</p>
+	<p><strong>npm install nome_do_módulo –-save</strong> - Instala o módulo e adiciona-o na lista de dependências do package.json do projeto.</p>
 	<p><strong>npm list</strong> - Lista todos os módulos existentes no projeto.</p>
 	<p><strong>npm list -g</strong> - Lista todos os módulos globais.</p>
 	<p><strong>npm remove nome_do_módulo</strong> - Remove um módulo do projeto.</p>
