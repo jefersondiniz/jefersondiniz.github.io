@@ -67,7 +67,7 @@ BLOG_URL="http://127.0.0.1:4000/"
 
 BLOG_URL="http://127.0.0.1:4000/"
 # Set your assets URL
-ASSETS_URL="assets/img/"
+ASSETS_URL="assets/img/post-imagens"
 # ----------------------------------------------------------------
 
 
@@ -134,7 +134,7 @@ echo "---"
 echo "layout: post"
 echo "title: \"${POST_TITLE}\""
 echo "date: ${CURRENT_DATE} ${TIME}"
-echo "image: '/assets/img/'"
+echo "image: '/assets/img/post-imagens'"
 echo "description:"
 echo "tags:"
 echo "categories:"
