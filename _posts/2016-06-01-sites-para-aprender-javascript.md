@@ -2,10 +2,10 @@
 layout: post
 title: "Sites para aprender JavaScript"
 date: 2016-06-01 03:59:46
-image: '/assets/img/post-imagens'
-description:
-tags:
-categories:
+image: '/assets/img/post-imagens/post-javascript.png'
+description: sites para aprender JavaScript
+tags: JavaScript
+categories: Desenvolvimento
 twitter_text:
 ---
 <p>Olá pessoal, a pouco tempo algumas pessoas me perguntaram se eu conhecia algum <strong>site</strong> no qual poderiam aprender <strong>JavaScript</strong>, então resolvi filtrar alguns que me ajudaram no processo de aprendizado.</p>
