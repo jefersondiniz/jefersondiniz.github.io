@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comparação de frameworks css"
+title: "Comparacao de frameworks css"
 date: 2016-06-24 01:37:04
 image: '/assets/img/post-imagens/css-post-framework.png'
 description: Esta com dificuldade em escolher qual framework utilizar em seu projeto? Veja essa tabela comparativa dos frameworks css mais conhecidos no mercado.
