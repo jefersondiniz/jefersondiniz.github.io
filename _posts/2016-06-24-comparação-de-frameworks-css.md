@@ -13,4 +13,5 @@ twitter_text:
 
 <p>Garanto que vocês já tiveram aquela dúvida cruel no momento de escolher qual Framework CSS utilizar em seu projeto, então descobri essa tabela comparativa no qual especifica as características dos frameworks mais conhecidos do mercado. Nesta lista é possivel visualizar o site e o repositório do projeto</p>
 
-Conheça já <a href="http://usablica.github.io/front-end-frameworks/compare.html"></a>
+Conheça já <a href="http://usablica.github.io/front-end-frameworks/compare.html">A Collection Of Best Front End Frameworks For Faster & Easier Web Development</a>
+
